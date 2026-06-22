@@ -66,7 +66,8 @@ The dashboard helps decision-makers:
 5.Make data-driven strategic decisions
 
 6.Dashboard Preview
-
+![Dashboard Preview](https://github.com/iampratima29-cloud/Superstore-sales-dashboard/blob/main/dashboard.png)
+![sales forcasting].(
 
 
 
