@@ -67,7 +67,7 @@ The dashboard helps decision-makers:
 
 6.Dashboard Preview
 ![Dashboard Preview](https://github.com/iampratima29-cloud/Superstore-sales-dashboard/blob/main/dashboard.png)
-![sales forcasting].(
+![sales forcasting](https://github.com/iampratima29-cloud/Superstore-sales-dashboard/blob/main/sales%20forcasting.png)
 
 
 
