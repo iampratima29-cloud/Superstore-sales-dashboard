@@ -1,16 +1,16 @@
 # Superstore-sales-dashboard
 
-1. Project Title / Headline
+1. Project Title / Headline-
 Descriptive name for the dashboard.
 📈 Sales Forecasting Dashboard: Business Intelligence & Predictive Analytics.
 Example :
     A dynamic Power BI dashboard designed to monitor sales performance, uncover business insights, and predict future sales using machine learning and time-series forecasting techniques.
 
-2. Short Description / Purpose
+2. Short Description / Purpose-
 The Sales Forecasting Dashboard is a data-driven business intelligence solution developed using Power BI, Python, and Excel. It helps organizations monitor sales performance, analyze customer and product trends, and predict future sales for better strategic decision-making.
 The dashboard provides insights into sales trends, regional performance, customer segmentation, product analysis, and future sales forecasts through interactive visualizations.
 
-3. Tech Stack
+3. Tech Stack-
 The dashboard was built using the following tools and technologies:
 
 📊 Power BI Desktop – Dashboard development and data visualization.
@@ -21,7 +21,7 @@ The dashboard was built using the following tools and technologies:
 🗄️ Data Modeling – Establishing relationships between tables.
 📉 Forecasting Models – ARIMA, Exponential Smoothing, Facebook Prophet, and LSTM.
 
-4. Data Source
+4. Data Source-
 Source: Kaggle – SuperStore Sales Dataset
 The dataset used in this project was obtained from Kaggle and contains detailed sales transaction records, including order information, customer details, product categories, sales, profit, and regional performance data.
 
@@ -33,19 +33,19 @@ Sales and Profit Metrics
 Regional and State-wise Data
 Order and Shipping Details
 
-5. Features / Highlights
+5. Features / Highlights-
 
 🎯 Business Problem
 Businesses often struggle to predict future sales accurately, making inventory planning, budgeting, and strategic decision-making challenging.
 
-🎯 Goal of the Dashboard
+🎯 Goal of the Dashboard-
 1.Analyze historical sales performance.
 2.Identify top-performing products and regions.
 3.Understand customer purchasing behavior.
 4.Detect sales trends and seasonality.
 5.Forecast future sales for proactive business planning.
 
-📌 Key Dashboard Insights
+📌 Key Dashboard Insights-
 1.Sales Trend Analysis
 2.Regional Performance Analysis
 3.Product Performance Analysis
@@ -55,7 +55,7 @@ Businesses often struggle to predict future sales accurately, making inventory p
 7.15-Day Sales Forecast
 8.Interactive Filters and Drill-Down Reports.
 
-🔹 Business Impact
+🔹 Business Impact-
 
 The dashboard helps decision-makers:
 
@@ -67,6 +67,7 @@ The dashboard helps decision-makers:
 
 6.Dashboard Preview
 ![Dashboard Preview](https://github.com/iampratima29-cloud/Superstore-sales-dashboard/blob/main/dashboard.png)
+
 ![sales forcasting](https://github.com/iampratima29-cloud/Superstore-sales-dashboard/blob/main/sales%20forcasting.png)
 
 
